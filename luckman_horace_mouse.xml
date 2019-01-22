@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Research Question: is there a difference in descriptions of the country and city by the different characters in the story, including the narrator -->
+<!-- Source: http://www.perseus.tufts.edu/hopper/text?doc=Hor.+S.+2.6&fromdoc=Perseus%3Atext%3A1999.02.0063--><?xml-model href="file:/C:/Users/mtl38/Documents/luckman_horace_mouse.rnc" type="application/relax-ng-compact-syntax"?>
+<st>
+    
+    <s>On a time a countrymouse is reported to have received a city-mouse into his <word mood = "neg" loc = "country" sp = "narrator">poor</word> cave, an old
+        host, his old acquaintance; a blunt fellow and attentive to his acquisitions, yet so as he
+        could [on occasion] enlarge his narrow soul in acts of hospitality. </s>
+    <s>What need of many words?</s>
+    <s>He neither grudged him the hoarded vetches, nor the long oats; and bringing in his mouth a
+        dry plum, and nibbled scraps of bacon, presented them to him, being desirous by the variety
+        of the supper to get the better of the daintiness of his guest, who hardly touched with his
+        delicate tooth the several things: while the father of the family himself, extended on fresh
+        straw, ate a spelt and darnel, leaving that which was better [for his guest].</s>
+    <s>At length the citizen addressing him, ‘Friend,’ says he, ‘what delight have you to live
+        <word mood = "neg" loc = "country" sp="citymouse">laboriously</word> on the ridge of a <word mood="neg" loc="country" sp ="citymouse">rugged thicket</word>?</s>
+    <s>Will you not prefer men and the city to the <word mood = "pos" loc = "country" sp = "citymouse">savage woods?</word></s>
+    <s>Take my advice, and go along with me: since mortal lives are allotted to all terrestrial
+        animals, nor is there any escape from death, either for the great or the small.</s>
+    <s>Wherefore, my good friend, while it is in your power, live happy in joyous circumstances:
+        live mindful of how brief an existence you are.’</s>
+    <s>Soon as these speeches had wrought upon the peasant, he leaps nimbly from his cave: thence
+        they both pursue their intended journey, being desirous to steal under the city walls by
+        night.</s>
+    <s>And now the night possessed the middle region of the heavens, when each of them set foot in a
+        <word mood="pos" loc="city" sp="narrator">gorgeous</word> <word mood="pos" loc="city" sp="narrator">palace</word>, where carpets dyed with crimson grain <word mood="pos" loc="city" sp="narrator">glittered</word> upon <word mood="pos" loc="city" sp="narrator">ivory</word> couches, and
+        many baskets of a <word mood="pos" loc="city" sp="narrator">magnificent</word> entertainment remained, which had yesterday been set by in
+        baskets piled upon one another.</s>
+    <s>After he had placed the peasant then, stretched at ease, upon a <word mood="pos" loc="city" sp="narrator">splendid</word> carpet; he bustles
+        about like an adroit host, and keeps bringing up one dish close upon another, and with an
+        affected civility performs all the ceremonies, first tasting of every thing he serves
+        up.</s>
+    <s>He, reclined, rejoices in the change of his situation, and acts the part of a boon companion
+        in the good cheer: when on a sudden a prodigious rattling of the folding doors shook them
+        both from their couches.</s>
+    <s><word mood="neg" loc="city" sp="narrator">Terrified</word> they began to scamper all about the room, and more and more heartless to be in
+        confusion, while the lofty house resounded with [the barking of] mastiff dogs; upon which,
+        says the country-mouse, ‘I have no desire for a life like this; and so farewell: my wood and
+        cave, <word mood="pos" loc="country" sp="countrymouse">secure</word> from surprises, shall with <word mood="pos" loc="country" sp ="countrymouse">homely</word> tares comfort me.’</s>
+</st>
